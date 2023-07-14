@@ -6,17 +6,15 @@ image_onhover: /publications/images/nmi2023_esn.png
 # author: ", "
 authors: "<strong>Shaocong Wang*</strong> Yi Li*, Dingchen Wang, Woyu Zhang, Xi Chen, Danian Dong, Songqi Wang, Xumeng Zhang, Peng Lin, Claudio Gallicchio, Xiaoxin Xu, Qi Liu, Kwang-Ting Cheng, Zhongrui Wang, Dashan Shang, Ming Liu"
 venue: "Nature Machine Intelligence"
-bib: |
-  @article{Doe2021,
-    author = {Doe J.},
-    journal = {A journal of imaginary research},
-    title = {Title of the publication},
-    year = {2021}
-  }
-paper: |
-https://www.nature.com/articles/s42256-023-00609-5 
-code: |
-https://github.com/wangsc1912/ESGNN
+# bib: |
+#   @article{Doe2021,
+#     author = {Doe J.},
+#     journal = {A journal of imaginary research},
+#     title = {Title of the publication},
+#     year = {2021}
+#   }
+paper: https://www.nature.com/articles/s42256-023-00609-5 
+code: https://github.com/wangsc1912/ESGNN
 cover page: https://www.nature.com/natmachintell/volumes/5/issues/2
 
 ---
