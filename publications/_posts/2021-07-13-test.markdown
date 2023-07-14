@@ -15,7 +15,7 @@ venue: "Nature Machine Intelligence"
 #   }
 paper: https://www.nature.com/articles/s42256-023-00609-5 
 code: https://github.com/wangsc1912/ESGNN
-cover page: https://www.nature.com/natmachintell/volumes/5/issues/2
+coverpage: https://www.nature.com/natmachintell/volumes/5/issues/2
 
 ---
 
