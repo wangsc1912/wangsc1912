@@ -46,45 +46,10 @@
             </div>
         </div>
         {% endif %}
-        {% if post.coverpage%}
-        {% if need_separator %} / {% endif %}
-        {% assign need_separator = true %}
-        <a href="{{post.coverpage}}">cover page</a>
-        {% endif %}
-        {% if post.paper%}
-        {% if need_separator %} / {% endif %}
-        {% assign need_separator = true %}
-        <a href="{{post.paper}}">paper</a>
-        {% endif %}
-        {% if post.arxiv %}
-        {% if need_separator %} / {% endif %}
-        {% assign need_separator = true %}
-        <a href="{{post.arxiv}}">arxiv</a>
-        {% endif %}
         {% if post.video %}
         {% if need_separator %} / {% endif %}
         {% assign need_separator = true %}
         <a href="{{post.video}}">video</a>
-        {% endif %}
-        {% if post.code %}
-        {% if need_separator %} / {% endif %}
-        {% assign need_separator = true %}
-        <a href="{{post.code}}">code</a>
-        {% endif %}
-        {% if post.dataset %}
-        {% if need_separator %} / {% endif %}
-        {% assign need_separator = true %}
-        <a href="{{post.dataset}}">dataset</a>
-        {% endif %}
-        {% if post.demo %}
-        {% if need_separator %} / {% endif %}
-        {% assign need_separator = true %}
-        <a href="{{post.demo}}">demo</a>
-        {% endif %}
-        {% if post.poster %}
-        {% if need_separator %} / {% endif %}
-        {% assign need_separator = true %}
-        <a href="{{post.poster}}">poster</a>
         {% endif %}
         {% if post.slides %}
         {% if need_separator %} / {% endif %}
