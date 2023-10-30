@@ -3,7 +3,7 @@ title:  "Memristive crossbar arrays for storage and computing applications"
 date:   2021-07-01 09:26:00 +00:00
 categories: [publications]
 image: /publications/images/blanky.png
-image_onhover: /publications/images/blank.png
+image_onhover: /publications/images/blanky.png
 author: "Huihan Li, Shaocong Wang, Xumeng Zhang, Wei Wang, Rui Yang, Zhong Sun, Wanxiang Feng, Peng Lin, Zhongrui Wang, Linfeng Sun, Yugui Yao"
 authors: "Huihan Li&dagger;, <strong>Shaocong Wang&dagger;</strong>, Xumeng Zhang, Wei Wang, Rui Yang, Zhong Sun, Wanxiang Feng, Peng Lin, Zhongrui Wang*, Linfeng Sun*, Yugui Yao"
 venue: "Advanced Intelligent Systems"
