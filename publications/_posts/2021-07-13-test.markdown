@@ -1,8 +1,8 @@
 ---
 title:  "Echo state graph neural networks with analogue random resistive memory arrays"
 date:   2023-02-13 09:26:00 +00:00
-image: /publications/images/nmi2023_esn.png
-image_onhover: /publications/images/nmi2023_esn.png
+image: publications/images/nmi2023_esn.png
+image_onhover: publications/images/nmi2023_esn.png
 # author: ", "
 authors: "<strong>Shaocong Wang*</strong> Yi Li*, Dingchen Wang, Woyu Zhang, Xi Chen, Danian Dong, Songqi Wang, Xumeng Zhang, Peng Lin, Claudio Gallicchio, Xiaoxin Xu, Qi Liu, Kwang-Ting Cheng, Zhongrui Wang, Dashan Shang, Ming Liu"
 venue: "Nature Machine Intelligence"
