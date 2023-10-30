@@ -153,7 +153,8 @@ body {
 .publication {
   .authors {
     a {
-      color: #000000;
+      // color: #000000;
+      color: #0c0a39;
     }
     a:focus,
     a:hover {
@@ -182,5 +183,6 @@ body {
 
 .code {
   // @extend .text-monospace;
-  background-color: #f8f8f8;
+  // background-color: #f8f8f8;
+  background-color: #70c8f5;
 }
