@@ -1,0 +1,20 @@
+---
+title:  "Few-shot graph learning with robust and energy-efficient memory-augmented graph neural network (MAGNN) based on homogeneous computing-in-memory"
+date:   2022-06-12 09:26:00 +00:00
+# image: publications/images/nc2023_reservoir.png
+# image_onhover: publications/images/nc2023_reservoir.png
+author: "Woyu Zhang, Shaocong Wang, Yi Li, Xiaoxin Xu, Danian Dong, Nanjia Jiang, Fei Wang, Zeyu Guo, Renrui Fang, Chunmeng Dou, Kai Ni, Zhongrui Wang, Dashan Shang, Ming Liu"
+authors: "Woyu Zhang, Shaocong Wang, Yi Li, Xiaoxin Xu, Danian Dong, Nanjia Jiang, Fei Wang, Zeyu Guo, Renrui Fang, Chunmeng Dou, Kai Ni, Zhongrui Wang, Dashan Shang, Ming Liu"
+venue: "2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
+"
+# bib: |
+#   @article{Doe2021,
+#     author = {Doe J.},
+#     journal = {A journal of imaginary research},
+#     title = {Another title of the publication},
+#     year = {2021}
+#   }
+paper: https://www.researchgate.net/profile/D-S-Shang/publication/362206145_Few-shot_graph_learning_with_robust_and_energy-efficient_memory-augmented_graph_neural_network_MAGNN_based_on_homogeneous_computing-in-memory/links/62dfa5984246456b55e817a8/Few-shot-graph-learning-with-robust-and-energy-efficient-memory-augmented-graph-neural-network-MAGNN-based-on-homogeneous-computing-in-memory.pdf
+
+---
+A computing-in-memory system for memory-augmented graph neural networks. 

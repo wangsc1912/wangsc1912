@@ -1,0 +1,19 @@
+---
+title:  "Resistive memory-based zero-shot liquid state machine for multimodal event data learning"
+date:   2022-06-12 09:26:00 +00:00
+# image: publications/images/nc2023_reservoir.png
+# image_onhover: publications/images/nc2023_reservoir.png
+author: "Ning Lin, Shaocong Wang, Yi Li, Bo Wang, Shuhui Shi, Yangu He, Woyu Zhang, Yifei Yu, Yue Zhang, Xiaojuan Qi, Xiaoming Chen, Hao Jiang, Xumeng Zhang, Peng Lin, Xiaoxin Xu, Qi Liu, Zhongrui Wang, Dashan Shang, Ming Liu"
+authors: "Ning Lin, Shaocong Wang, Yi Li, Bo Wang, Shuhui Shi, Yangu He, Woyu Zhang, Yifei Yu, Yue Zhang, Xiaojuan Qi, Xiaoming Chen, Hao Jiang, Xumeng Zhang, Peng Lin, Xiaoxin Xu, Qi Liu, Zhongrui Wang, Dashan Shang, Ming Liu"
+venue: "arXiv preprint"
+# bib: |
+#   @article{Doe2021,
+#     author = {Doe J.},
+#     journal = {A journal of imaginary research},
+#     title = {Another title of the publication},
+#     year = {2021}
+#   }
+paper: https://arxiv.org/pdf/2307.00771.pdf
+
+---
+A CIM-based random SNN for zero shot cross-modal contrastive learning.
