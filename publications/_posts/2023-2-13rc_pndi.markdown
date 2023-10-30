@@ -1,8 +1,8 @@
 ---
 title:  "Wearable in-sensor reservoir computing using optoelectronic polymers with through-space charge-transport characteristics for multi-task learning"
 date:   2023-01-28 09:26:00 +00:00
-image: publications/images/nc2023_reservoir.png
-image_onhover: publications/images/nc2023_reservoir.png
+image: /publications/images/nc2023_reservoir.png
+image_onhover: /publications/images/nc2023_reservoir.png
 author: "Xiaosong Wu*, Shaocong Wang*, Wei Huang, Yu Dong, Zhongrui Wang, Weiguo Huang"
 authors: "Xiaosong Wu*, <strong>Shaocong Wang*</strong>, Wei Huang, Yu Dong, Zhongrui Wang, Weiguo Huang"
 venue: "Nature Communications"

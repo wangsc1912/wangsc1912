@@ -1,8 +1,8 @@
 ---
 title:  "Echo state graph neural networks with analogue random resistive memory arrays"
 date:   2023-02-13 09:26:00 +00:00
-image: publications/images/nmi2023_esn.png
-image_onhover: publications/images/nmi2023_esn.png
+image: /publications/images/nmi2023_esn.png
+image_onhover: /publications/images/nmi2023_esn.png
 # author: ", "
 authors: "<strong>Shaocong Wang*</strong> Yi Li*, Dingchen Wang, Woyu Zhang, Xi Chen, Danian Dong, Songqi Wang, Xumeng Zhang, Peng Lin, Claudio Gallicchio, Xiaoxin Xu, Qi Liu, Kwang-Ting Cheng, Zhongrui Wang, Dashan Shang, Ming Liu"
 venue: "Nature Machine Intelligence"
@@ -16,7 +16,6 @@ venue: "Nature Machine Intelligence"
 paper: https://www.nature.com/articles/s42256-023-00609-5 
 code: https://github.com/wangsc1912/ESGNN
 coverpage: https://www.nature.com/natmachintell/volumes/5/issues/2
-
 ---
 
 A hardware-software co-designed computing-in-memory system to solve the efficiency issues in graph learning. The hardware is a resistive memory array with its cells just randomly programmed at the begining, while the weights of our GNN are also randomly fixed except the last layer. The system can avoid the von Neumann bottleneck, the programming issues of resistive memory cells, and the training cost of GNNs.
