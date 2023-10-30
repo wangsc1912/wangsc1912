@@ -1,7 +1,8 @@
 ---
 title:  "Few-shot graph learning with robust and energy-efficient memory-augmented graph neural network (MAGNN) based on homogeneous computing-in-memory"
 date:   2022-06-12 09:26:00 +00:00
-author: "Woyu Zhang, Shaocong Wang, Yi Li, Xiaoxin Xu, Danian Dong, Nanjia Jiang, Fei Wang, Zeyu Guo, Renrui Fang, Chunmeng Dou, Kai Ni, Zhongrui Wang, Dashan Shang, Ming Liu"
+categories: [publications]
+author: "Woyu Zhang, <strong>Shaocong Wang</strong>, Yi Li, Xiaoxin Xu, Danian Dong, Nanjia Jiang, Fei Wang, Zeyu Guo, Renrui Fang, Chunmeng Dou, Kai Ni, Zhongrui Wang, Dashan Shang, Ming Liu"
 authors: "Woyu Zhang, Shaocong Wang, Yi Li, Xiaoxin Xu, Danian Dong, Nanjia Jiang, Fei Wang, Zeyu Guo, Renrui Fang, Chunmeng Dou, Kai Ni, Zhongrui Wang, Dashan Shang, Ming Liu"
 venue: "2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)"
 # bib: |

@@ -1,4 +1,7 @@
-{% assign publication_posts = site.posts | contains: 'categories', 'publications' %}
+{% assign publication_posts = site.posts | where: 'categories', 'publications' %}
+<!-- publication = site.post中 categories 为 publication的post -->
+
+
 {% if publication_posts.size > 0 %}
 <div class="row py-2">
     <div class="col-md-12" id="publications">
