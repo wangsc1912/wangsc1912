@@ -7,14 +7,7 @@
 </div>
 {% for post in talks_posts %}
 <div class="row py-2 talks">
-    <div class="col-md-2 col-sm-12 project-thumbnail-parent" align="center">
-        {% if post.image %}
-        <img class="project-thumbnail {% if post.image_onhover %} pre-hover {% endif %}" src="{{site.baseurl}}/tn{{post.image}}" alt="project image" />
-        {% endif %}
-        {% if post.image_onhover %}
-        <img class="project-thumbnail post-hover" src="{{site.baseurl}}/tn{{post.image_onhover}}" alt="project image" style="display: none;"/>
-        {% endif %}
-    </div>
+
     <div class="col-md-10 col-sm-12 project-description">
         <h3>{{post.title}}</h3>
         <br>
