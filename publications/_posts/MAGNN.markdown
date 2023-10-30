@@ -5,8 +5,7 @@ image: publications/images/nc2023_reservoir.png
 image_onhover: publications/images/nc2023_reservoir.png
 author: "Woyu Zhang, Shaocong Wang, Yi Li, Xiaoxin Xu, Danian Dong, Nanjia Jiang, Fei Wang, Zeyu Guo, Renrui Fang, Chunmeng Dou, Kai Ni, Zhongrui Wang, Dashan Shang, Ming Liu"
 authors: "Woyu Zhang, Shaocong Wang, Yi Li, Xiaoxin Xu, Danian Dong, Nanjia Jiang, Fei Wang, Zeyu Guo, Renrui Fang, Chunmeng Dou, Kai Ni, Zhongrui Wang, Dashan Shang, Ming Liu"
-venue: "2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)
-"
+venue: "2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits)"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
