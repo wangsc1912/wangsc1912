@@ -17,4 +17,4 @@ venue: "Nature Communications"
 paper: https://www.nature.com/articles/s41467-023-36205-9
 code: https://github.com/wangsc1912/rc_pndi
 ---
-An device-algorithm co-design is proposed to emulate human retina and the affordable learning paradigm. Algorithms designed to fit the characters of a novel optoelectronic device, with in-sensor computing.
+A device-algorithm co-design is proposed to emulate human retina and the affordable learning paradigm. Algorithms designed to fit the characters of a novel optoelectronic device, with in-sensor computing.
