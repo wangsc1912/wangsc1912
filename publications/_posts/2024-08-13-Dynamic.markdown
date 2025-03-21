@@ -1,6 +1,6 @@
 ---
 title:  "Semantic memory–based dynamic neural network using memristive ternary CIM and CAM for 2D and 3D vision"
-date:   2023-02-13 09:26:00 +00:00
+date:   2024-08-13 09:26:00 +00:00
 categories: [publications]
 image: /publications/images/zhang_sa.jpg
 image_onhover: /publications/images/zhang_sa.jpg

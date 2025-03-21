@@ -1,6 +1,6 @@
 ---
 title:  "Resistive memory-based zero-shot liquid state machine for multimodal event data learning"
-date:   2023-06-12 09:26:00 +00:00
+date:   2025-01-12 09:26:00 +00:00
 categories: [publications]
 image: /publications/images/ncs_2025.jpg
 image_onhover: /publications/images/ncs_2025.jpg

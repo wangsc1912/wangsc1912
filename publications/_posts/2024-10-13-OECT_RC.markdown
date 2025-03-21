@@ -1,6 +1,6 @@
 ---
 title:  "Wearable in-sensor computing platform based on stretchable organic electrochemical transistors"
-date:   2023-02-13 09:26:00 +00:00
+date:   2024-10-13 09:26:00 +00:00
 categories: [publications]
 image: /publications/images/ne_2024_rc.jpg
 image_onhover: /publications/images/ne_2024_rc.jpg
