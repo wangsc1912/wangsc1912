@@ -5,7 +5,7 @@ categories: [publications]
 image: /publications/images/nmi2023_esn.png
 image_onhover: /publications/images/nmi2023_esn.png
 # author: ", "
-authors: "<strong>Shaocong Wang&dagger;</strong>, Yi Li&dagger;, Dingchen Wang, Woyu Zhang, Xi Chen, Danian Dong, Songqi Wang, Xumeng Zhang, Peng Lin, Claudio Gallicchio, Xiaoxin Xu, Qi Liu, Kwang-Ting Cheng, Zhongrui Wang*, Dashan Shang*, Ming Liu"
+authors: "<strong>Shaocong Wang<sup>&dagger</sup></strong>, Yi Li<sup>&dagger</sup>, Dingchen Wang, Woyu Zhang, Xi Chen, Danian Dong, Songqi Wang, Xumeng Zhang, Peng Lin, Claudio Gallicchio, Xiaoxin Xu, Qi Liu, Kwang-Ting Cheng, Zhongrui Wang*, Dashan Shang*, Ming Liu"
 venue: "Nature Machine Intelligence"
 # bib: |
 #   @article{Doe2021,

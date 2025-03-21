@@ -5,9 +5,10 @@
 {% if publication_posts.size > 0 %}
 <div class="row py-2">
     <div class="col-md-12" id="publications">
-        <h2>Publications</h2>
+        <h2>Selected Publications</h2>
     </div>
 </div>
+Please see <a href="https://scholar.google.com/citations?user=NCj3MZoAAAAJ&hl=en">Google Scholar</a> for the full list of publications.
 {% for post in publication_posts %}
 <div class="row py-2 publication">
     <div class="col-md-2 col-sm-12 project-thumbnail-parent" align="center">
@@ -23,7 +24,7 @@
             {{post.authors}}
         </div>
 
-        <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+        <strong></strong><em>{{post.venue}}</em></strong>, {{ post.date | date: "%Y" }}
         <br>
         {% assign need_separator = false %}
         {% if post.page_url %}

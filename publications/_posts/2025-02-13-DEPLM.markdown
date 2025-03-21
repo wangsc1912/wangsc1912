@@ -5,7 +5,7 @@ categories: [publications]
 image: /publications/images/nc2025_deplm.png
 image_onhover: /publications/images/nc2025_deplm.png
 # author: ", "
-authors: "<strong>Shaocong Wang&dagger;</strong>, Yizhao Gao&dagger;, Yi Li&dagger;, Woyu Zhang, Yifei Yu, Bo Wang, Ning Lin, Hegan Chen, Yue Zhang, Yang Jiang, Dingchen Wang, Jia Chen, Peng Dai, Hao Jiang, Peng Lin, Xumeng Zhang, Xiaojuan Qi, Xiaoxin Xu, Hayden So, Zhongrui Wang*, Dashan Shang*, Qi Liu, Kwang-Ting Cheng, Ming Liu"
+authors: "<strong>Shaocong Wang<sup>&dagger</sup></strong>, Yizhao Gao<sup>&dagger</sup>, Yi Li<sup>&dagger</sup>, Woyu Zhang, Yifei Yu, Bo Wang, Ning Lin, Hegan Chen, Yue Zhang, Yang Jiang, Dingchen Wang, Jia Chen, Peng Dai, Hao Jiang, Peng Lin, Xumeng Zhang, Xiaojuan Qi, Xiaoxin Xu, Hayden So, Zhongrui Wang*, Dashan Shang*, Qi Liu, Kwang-Ting Cheng, Ming Liu"
 venue: "Nature Communications"
 # bib: |
 #   @article{Doe2021,
@@ -18,4 +18,4 @@ paper: https://www.nature.com/articles/s41467-025-56079-3
 code: https://github.com/wangsc1912/DEPLM
 ---
 
-A CIM-based random network: deep extreme point learning machine for unifed learning on point clouds, event data, and iamges.
+A CIM-based random network: deep extreme point learning machine for unifed learning on point clouds, event data, and iamges. The network performs decently with most of parameters being random (>90%)!
