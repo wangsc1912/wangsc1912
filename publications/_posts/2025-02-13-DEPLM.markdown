@@ -5,7 +5,7 @@ categories: [publications]
 image: /publications/images/nc2025_deplm.png
 image_onhover: /publications/images/nc2025_deplm.png
 # author: ", "
-authors: "<strong>Shaocong Wang<sup>&dagger</sup></strong>, Yizhao Gao<sup>&dagger</sup>, Yi Li<sup>&dagger</sup>, Woyu Zhang, Yifei Yu, Bo Wang, Ning Lin, Hegan Chen, Yue Zhang, Yang Jiang, Dingchen Wang, Jia Chen, Peng Dai, Hao Jiang, Peng Lin, Xumeng Zhang, Xiaojuan Qi, Xiaoxin Xu, Hayden So, Zhongrui Wang*, Dashan Shang*, Qi Liu, Kwang-Ting Cheng, Ming Liu"
+authors: "<strong>Shaocong Wang<sup>&dagger;</sup></strong>, Yizhao Gao<sup>&dagger;</sup>, Yi Li<sup>&dagger;</sup>, Woyu Zhang, Yifei Yu, Bo Wang, Ning Lin, Hegan Chen, Yue Zhang, Yang Jiang, Dingchen Wang, Jia Chen, Peng Dai, Hao Jiang, Peng Lin, Xumeng Zhang, Xiaojuan Qi, Xiaoxin Xu, Hayden So, Zhongrui Wang*, Dashan Shang*, Qi Liu, Kwang-Ting Cheng, Ming Liu"
 venue: "Nature Communications"
 # bib: |
 #   @article{Doe2021,
