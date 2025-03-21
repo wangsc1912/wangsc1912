@@ -5,7 +5,7 @@ categories: [publications]
 image: /publications/images/blanky.png
 image_onhover: /publications/images/blanky.png
 author: "Huihan Li, Shaocong Wang, Xumeng Zhang, Wei Wang, Rui Yang, Zhong Sun, Wanxiang Feng, Peng Lin, Zhongrui Wang, Linfeng Sun, Yugui Yao"
-authors: "Huihan Li<sup>&dagger;</sup>, <strong>Shaocong Wang<sup>&dagger;</sup></strong> (co-first author), Xumeng Zhang, Wei Wang, Rui Yang, Zhong Sun, Wanxiang Feng, Peng Lin, Zhongrui Wang*, Linfeng Sun*, Yugui Yao"
+authors: "Huihan Li&dagger;, <strong>Shaocong Wang&dagger;</strong> (co-first author), Xumeng Zhang, Wei Wang, Rui Yang, Zhong Sun, Wanxiang Feng, Peng Lin, Zhongrui Wang*, Linfeng Sun*, Yugui Yao"
 venue: "Advanced Intelligent Systems"
 # bib: |
 #   @article{Doe2021,

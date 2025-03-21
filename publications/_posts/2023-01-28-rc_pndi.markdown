@@ -5,7 +5,7 @@ categories: [publications]
 image: /publications/images/nc2023_reservoir.png
 image_onhover: /publications/images/nc2023_reservoir.png
 author: "Xiaosong Wu*, Shaocong Wang*, Wei Huang, Yu Dong, Zhongrui Wang, Weiguo Huang"
-authors: "Xiaosong Wu<sup>&dagger;</sup>, <strong>Shaocong Wang<sup>&dagger;</sup></strong> (co-first author), Wei Huang, Yu Dong, Zhongrui Wang*, Weiguo Huang*"
+authors: "Xiaosong Wu&dagger;, <strong>Shaocong Wang&dagger;</strong> (co-first author), Wei Huang, Yu Dong, Zhongrui Wang*, Weiguo Huang*"
 venue: "Nature Communications"
 # bib: |
 #   @article{Doe2021,

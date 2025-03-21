@@ -5,7 +5,7 @@ categories: [publications]
 image: /publications/images/ncs_2025.jpg
 image_onhover: /publications/images/ncs_2025.jpg
 author: "Ning Lin, Shaocong Wang, Yi Li, Bo Wang, Shuhui Shi, Yangu He, Woyu Zhang, Yifei Yu, Yue Zhang, Xiaojuan Qi, Xiaoming Chen, Hao Jiang, Xumeng Zhang, Peng Lin, Xiaoxin Xu, Qi Liu, Zhongrui Wang, Dashan Shang, Ming Liu"
-authors: "Ning Lin<sup>&dagger;</sup>, <strong>Shaocong Wang<sup>&dagger;</sup></strong> (co-first author), Yi Li<sup>&dagger;</sup>, Bo Wang, Shuhui Shi, Yangu He, Woyu Zhang, Yifei Yu, Yue Zhang, Xiaojuan Qi, Xiaoming Chen, Hao Jiang, Xumeng Zhang, Peng Lin, Xiaoxin Xu, Qi Liu, Zhongrui Wang*, Dashan Shang*, Ming Liu"
+authors: "Ning Lin&dagger;, <strong>Shaocong Wang&dagger;</strong> (co-first author), Yi Li&dagger;, Bo Wang, Shuhui Shi, Yangu He, Woyu Zhang, Yifei Yu, Yue Zhang, Xiaojuan Qi, Xiaoming Chen, Hao Jiang, Xumeng Zhang, Peng Lin, Xiaoxin Xu, Qi Liu, Zhongrui Wang*, Dashan Shang*, Ming Liu"
 venue: "Nature Computational Science"
 # bib: |
 #   @article{Doe2021,
