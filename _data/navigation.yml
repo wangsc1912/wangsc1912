@@ -14,3 +14,11 @@
   link: /
   anchor: '#teaching'
   highlight: false
+- name: Mentoring
+  link: /
+  anchor: '#mentoring'
+  highlight: false
+- name: Miscs
+  link: /
+  anchor: '#awards
+  highlight: false
