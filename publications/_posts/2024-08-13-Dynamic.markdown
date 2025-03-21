@@ -1,0 +1,21 @@
+---
+title:  "Semantic memory–based dynamic neural network using memristive ternary CIM and CAM for 2D and 3D vision"
+date:   2023-02-13 09:26:00 +00:00
+categories: [publications]
+image: /publications/images/zhang_sa.jpg
+image_onhover: /publications/images/zhang_sa.jpg
+# author: ", "
+authors: Yue Zhang, Woyu Zhang, <strong>Shaocong Wang</strong>, Ning Lin, Yifei Yu, Yangu He, Bo Wang, Hao Jiang, Peng Lin, Xiaoxin Xu, Xiaojuan Qi, Zhongrui Wang*, Xumeng Zhang, Dashan Shang*, Qi Liu, Kwang-Ting Cheng, Ming Liu
+venue: "Science Advances"
+# bib: |
+#   @article{Doe2021,
+#     author = {Doe J.},
+#     journal = {A journal of imaginary research},
+#     title = {Title of the publication},
+#     year = {2021}
+#   }
+paper: https://www.science.org/doi/full/10.1126/sciadv.ado1058 
+# code: https://github.com/wangsc1912/DEPLM
+---
+
+A semantic memory–based dynamic neural network using both ternary CIM and CAM structures.

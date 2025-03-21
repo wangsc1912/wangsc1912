@@ -6,7 +6,7 @@ image: /publications/images/blanky.png
 image_onhover: /publications/images/blanky.png
 author: "Ning Lin, Shaocong Wang, Yi Li, Bo Wang, Shuhui Shi, Yangu He, Woyu Zhang, Yifei Yu, Yue Zhang, Xiaojuan Qi, Xiaoming Chen, Hao Jiang, Xumeng Zhang, Peng Lin, Xiaoxin Xu, Qi Liu, Zhongrui Wang, Dashan Shang, Ming Liu"
 authors: "Ning Lin&dagger;, <strong>Shaocong Wang&dagger;</strong>, Yi Li&dagger;, Bo Wang, Shuhui Shi, Yangu He, Woyu Zhang, Yifei Yu, Yue Zhang, Xiaojuan Qi, Xiaoming Chen, Hao Jiang, Xumeng Zhang, Peng Lin, Xiaoxin Xu, Qi Liu, Zhongrui Wang*, Dashan Shang*, Ming Liu"
-venue: "arXiv preprint"
+venue: "Nature Computational Science"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
@@ -14,7 +14,7 @@ venue: "arXiv preprint"
 #     title = {Another title of the publication},
 #     year = {2021}
 #   }
-paper: https://arxiv.org/pdf/2307.00771.pdf
+paper: https://www.nature.com/articles/s43588-024-00751-z
 
 ---
 A CIM-based random SNN for zero shot cross-modal contrastive learning.
