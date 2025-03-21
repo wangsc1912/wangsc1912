@@ -6,7 +6,7 @@ image: /publications/images/ne_2024_rc.jpg
 image_onhover: /publications/images/ne_2024_rc.jpg
 # author: ", "
 authors: "Dingyao Liu&dagger;, Xinyu Tian&dagger;, Jing Bai&dagger;, <strong>Shaocong Wang&dagger;</strong>, Shilei Dai, Yan Wang, Zhongrui Wang, Shiming Zhang, Kwang-Ting Cheng, Ming Liu"
-venue: "Nature Communications"
+venue: "Nature Electronics"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
