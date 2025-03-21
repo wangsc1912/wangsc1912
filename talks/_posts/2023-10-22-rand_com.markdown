@@ -6,7 +6,7 @@ categories: [talks]
 # image_onhover: publications/images/nc2023_reservoir.png
 # author: "Shaocong Wang*, Hegan Chen*, Woyu Zhang*, Yi Li, Dingchen Wang, Shuhui Shi, Yaping Zhao, Kam Chi Loong, Xi Chen, Yujiao Dong, Yi Zhang, Yang Jiang, Chaudhry Furqan, Jia Chen, Qing Wang, Xiaoxin Xu, Guangyi Wang, Hongyu Yu, Dashan Shang, Zhongrui Wang"
 # authors: "<strong>Shaocong Wang&dagger;</strong>, Hegan Chen&dagger;, Woyu Zhang&dagger;, Yi Li, Dingchen Wang, Shuhui Shi, Yaping Zhao, Kam Chi Loong, Xi Chen, Yujiao Dong, Yi Zhang, Yang Jiang, Chaudhry Furqan, Jia Chen, Qing Wang, Xiaoxin Xu, Guangyi Wang, Hongyu Yu, Dashan Shang, Zhongrui Wang"
-venue: "Chinese Academy of Sciences Frontiers of Science Symposium, Xishuangbanna, China"
+venue: "Chinese Academy of Sciences International Frontiers of Science Symposium, Xishuangbanna, China"
 # bib: |
 #   @article{Doe2021,
 #     author = {Doe J.},
